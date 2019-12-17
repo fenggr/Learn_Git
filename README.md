@@ -6,7 +6,11 @@
     
 # 大标题
 ```pyton
-    print("hello, world!")
+print("hello, world!")
+
+a = range(1, 10, 1)
+for b in a
+    print(b)
 ```
 ## 中标题
 ### 小标题
