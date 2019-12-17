@@ -5,7 +5,7 @@
     这是分支#1的内容
     
 # 大标题
-```pyton
+```python
 print("hello, world!")
 
 a = range(1, 10, 1)
